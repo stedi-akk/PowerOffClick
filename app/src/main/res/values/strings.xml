@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Power Off Click</string>
+    <string name="device_does_not_have_root">This device does not have proper root access</string>
+    <string name="power_off_failed">Power off failed for unknown reason</string>
+</resources>
